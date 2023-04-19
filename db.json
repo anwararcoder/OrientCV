@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "email": "anwar@gmail.com",
+      "password": "$2a$10$WCAH.4KhgK5yWPueJe2vp.GrYbC24UwqVv2w0vZGxRM6bDRHE.DqG",
+      "name": "Anwar Ramadan",
+      "experience": [],
+      "location": {},
+      "socialMedia": [],
+      "education": [],
+      "skills": [],
+      "languages": [],
+      "projects": [],
+      "awards": [],
+      "certificates": [],
+      "id": 1
+    },
+    {
+      "email": "anwar123@gmail.com",
+      "password": "$2a$10$9RIwWN/Ol5SesTAzxcOtAu9a7lGULaGqkAnGfz4C8emBKWx2cdbnO",
+      "name": "Anwar Ramadan",
+      "experience": [],
+      "location": {},
+      "socialMedia": [],
+      "education": [],
+      "skills": [],
+      "languages": [],
+      "projects": [],
+      "awards": [],
+      "certificates": [],
+      "id": 2
+    }
+  ]
+}
